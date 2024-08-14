@@ -42,17 +42,10 @@ On branch main
 nothing to commit, working tree clean
 
 山中玲@ReiAsus14Pro MINGW64 ~/samurai/kadai/git_challenge (main)
-$ git log
-commit 7c9460a625d4de7f88f9601e86ab792cd19cbaeb (HEAD -> main)
-Author: Mofu-Ya <mofu.pro21.shiro@gmail.com>
-Date:   Wed Aug 14 08:21:22 2024 +0900
+山中玲@ReiAsus14Pro MINGW64 ~/samurai/kadai/git_challenge (main)
+$ git log --oneline hello_world.txt
+7c9460a (HEAD -> main) 2回目のcommit
+35423e6 1回目のcommit
 
-    2回目のcommit
-
-commit 35423e66312735203a59c33ed6ca0ea218e5da4e
-Author: Mofu-Ya <mofu.pro21.shiro@gmail.com>
-Date:   Wed Aug 14 08:20:47 2024 +0900
-
-    1回目のcommit
 
 
